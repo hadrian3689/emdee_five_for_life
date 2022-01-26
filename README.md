@@ -4,7 +4,10 @@ Hack The Box's Emdee Five For Life
 
 ## Description
 
-The final script for Hack The Box's Emdee Five For Life challenges.
+The final script for Hack The Box's Emdee Five For Life challenges.<br>
+<br>
+The blog post can be found here:<br>
+https://readysetexploit.wordpress.com/2022/01/25/hack-the-box-emdee-five-for-life/
 
 ### Executing program
 
